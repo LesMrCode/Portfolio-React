@@ -13,7 +13,7 @@ export default function Projects() {
                 <h3>Project 3: Website Redesign.</h3>
                 <p>A redesign of an existing website to improve the user experience and layout. Built with Bootstrap & CSS.</p>
                 <h3>Project 4: Group Website Redesign</h3>
-                <p>A collaborative project to redesign an existing businesses </p>
+                <p>A collaborative project to redesign an existing businesses</p>
 			</div>
 		</section>
 	)
