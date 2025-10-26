@@ -4,6 +4,9 @@
 .hero{
   background-color: blueviolet;
   color: black;
+  border-style: groove;
+  border-color: black;
+  border-width: 5px;
 }
 
 .btn{
@@ -45,3 +48,11 @@
   text-align: center;
 }
 
+/* Styling for the footer section */
+.footer-section {
+  background-color: black;
+}
+
+.nav-item .nav-link {
+  color: white;
+}

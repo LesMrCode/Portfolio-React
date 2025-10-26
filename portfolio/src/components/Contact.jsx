@@ -30,9 +30,6 @@ export default function Contact() {
               <div className="checkbox mb-3"></div>
 
               <button className="w-100 btn btn-lg btn-primary" type="submit">Send Message</button>
-
-              <hr className="my-4" />
-              <small className="text-body-secondary">By clicking Sign up, you agree to the terms of use.</small>
             </form>
           </div>
         </div>
