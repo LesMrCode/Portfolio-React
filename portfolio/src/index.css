@@ -5,13 +5,21 @@
   background-color: blueviolet;
   color: black;
   border-style: groove;
-  border-color: black;
+  border-color: blueviolet;
   border-width: 5px;
 }
 
 .btn{
   background-color: blue;
   color: white;
+}
+
+/* Styling for the about section */
+.about-section {
+  background-color: blueviolet;
+  border-style: groove;
+  border-color: blueviolet;
+  border-width: 5px;
 }
 
 /* Styling for the skills header */
@@ -26,7 +34,7 @@
 .skills-section {
   background-color: blueviolet;
   border-style: groove;
-  border-color: black;
+  border-color: blueviolet;
   border-width: 5px;
 }
 
@@ -39,7 +47,7 @@
 .contact-section {
   background-color: blueviolet;
   border-style: groove;
-  border-color: black;
+  border-color: blueviolet;
   border-width: 5px;
 }
 
