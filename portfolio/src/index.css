@@ -1,5 +1,13 @@
 @import "tailwindcss"; 
 
+/* Styling for the header section */
+.header-section {
+  background-color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+
 /* Styling for the hero  section */
 .hero{
   background-color: blueviolet;
@@ -41,6 +49,11 @@
 /* Styling for the Skills Items */
 .color-blackmb-1 {
   color: black;
+}
+
+/* Styling for the projects section */
+.projects-section {
+  background-color: blueviolet;
 }
 
 /* Styling for the contact section */

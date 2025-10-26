@@ -1,7 +1,7 @@
 import React from 'react'
 export default function Header() {
     return (
-
+        <section class="header-section">
         <header
           class=" bg-black d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom"
         >
@@ -36,5 +36,6 @@ export default function Header() {
             </button>
           </div>
         </header>
+        </section>
     )
 }
