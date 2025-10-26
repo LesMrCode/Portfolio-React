@@ -1,1 +1,47 @@
 @import "tailwindcss"; 
+
+/* Styling for the hero  section */
+.hero{
+  background-color: blueviolet;
+  color: black;
+}
+
+.btn{
+  background-color: blue;
+  color: white;
+}
+
+/* Styling for the skills header */
+.skills-header{
+  padding-bottom: 50px;
+  margin-bottom: 30px;
+  padding-bottom: 5px;
+
+}
+
+/* Styling for the skills section */
+.skills-section {
+  background-color: blueviolet;
+  border-style: groove;
+  border-color: black;
+  border-width: 5px;
+}
+
+/* Styling for the Skills Items */
+.color-blackmb-1 {
+  color: black;
+}
+
+/* Styling for the contact section */
+.contact-section {
+  background-color: blueviolet;
+  border-style: groove;
+  border-color: black;
+  border-width: 5px;
+}
+
+/* Styling for the contact header */
+.contact-header {
+  text-align: center;
+}
+
