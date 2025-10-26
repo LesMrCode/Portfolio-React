@@ -12,9 +12,9 @@ export default function Contact() {
         <div className="row align-items-center g-lg-5 py-5">
           <div className="col-lg-7 text-center text-lg-start">
             <h1 className="display-4 fw-bold lh-1 text-body-emphasis mb-3">Connect With Me:</h1>
-            <h2>Email:</h2>
-             <h2>LinkedIn:</h2>
-              <h2>GitHub:</h2>
+        <h5>Email: coach.flownetic@gmail.com</h5>
+        <a href="https://www.linkedin.com/in/lesley-eric-m-408319372/" class="btn btn-primary"> LinkedIn </a>
+            <a href="https://github.com/LesMrCode" class="btn btn-primary"> GitHub </a>
           </div>
 
           <div className="col-md-10 mx-auto col-lg-5">

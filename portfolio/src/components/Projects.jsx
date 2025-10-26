@@ -19,9 +19,7 @@ export default function Projects() {
             <div>
               <h3 class="fs-2 text-body-emphasis">Restaurant Menu</h3>
               <p>
-                Paragraph of text beneath the heading to explain the heading.
-                We'll add onto it with another sentence and probably just keep
-                going until we run out of words.
+                Built a simple menu-style webpage using HTML & CSS. 
               </p>
               <a href="https://restaurant-menu-catalogue.netlify.app/" class="btn btn-primary"> View Project </a>
             </div>
@@ -37,9 +35,7 @@ export default function Projects() {
             <div>
               <h3 class="fs-2 text-body-emphasis">Website Redesign(Spicy Den)</h3>
               <p>
-                Paragraph of text beneath the heading to explain the heading.
-                We'll add onto it with another sentence and probably just keep
-                going until we run out of words.
+                Completed an individual project that focused on using the Bootstrap framework to redesign a webpage with modern layout principles and a responsiveness for all types of devices. 
               </p>
               <a href="https://spicy-den.netlify.app/" class="btn btn-primary"> View Project </a>
             </div>
@@ -55,9 +51,7 @@ export default function Projects() {
             <div>
               <h3 class="fs-2 text-body-emphasis">Digital Clock</h3>
               <p>
-                Paragraph of text beneath the heading to explain the heading.
-                We'll add onto it with another sentence and probably just keep
-                going until we run out of words.
+                Developed a digital clock that displays the current time and date and updates automatically using HTML, CSS and JavaScript
               </p>
               <a href="https://cityclockjs.netlify.app/" class="btn btn-primary"> View Project </a>
             </div>
@@ -80,9 +74,7 @@ export default function Projects() {
             <div>
               <h3 class="fs-2 text-body-emphasis">Group Portfolio Website</h3>
               <p>
-                Paragraph of text beneath the heading to explain the heading.
-                We'll add onto it with another sentence and probably just keep
-                going until we run out of words.
+                 Collaborated with a group of software development students to design and develop a fully functional webpage, showcasing our ability of teamwork and problem solving.
               </p>
               <a href="https://group-1-portfolio.netlify.app/" class="btn btn-primary"> View Projects </a>
             </div>
@@ -98,9 +90,7 @@ export default function Projects() {
             <div>
               <h3 class="fs-2 text-body-emphasis">Website Redesign</h3>
               <p>
-                Paragraph of text beneath the heading to explain the heading.
-                We'll add onto it with another sentence and probably just keep
-                going until we run out of words.
+                The project involved redesigning an existing business website with a team, with the main objective being to improve the overall design and mobile responsiveness.
               </p>
               <a href="https://laylascoffeeshop.netlify.app/" class="btn btn-primary"> View Project </a>
             </div>
@@ -116,9 +106,7 @@ export default function Projects() {
             <div>
               <h3 class="fs-2 text-body-emphasis">Quiz App</h3>
               <p>
-                Paragraph of text beneath the heading to explain the heading.
-                We'll add onto it with another sentence and probably just keep
-                going until we run out of words.
+                : Collaborated with a group of software development students to design and develop a fully functional quiz app.Using HTML,CSS & JavaScript.
               </p>
               <a href="https://roaring-kitten-2b1fc3.netlify.app/" class="btn btn-primary"> View Project </a>
             </div>
