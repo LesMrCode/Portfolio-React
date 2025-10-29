@@ -1,4 +1,5 @@
 import React from 'react'
+import LCV from "./LCV.docx"
 
 export default function About() {
 	return (
@@ -19,7 +20,7 @@ export default function About() {
             </p>
             </div> 
             <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-              <a href="./LCV.docx" target="_blank" class="btn btn-primary"> Download CV </a>
+              <a href={LCV} class="btn btn-primary"> Download CV </a>
             </div>
           </div>
         </div>
