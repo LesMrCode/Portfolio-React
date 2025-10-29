@@ -1,79 +1,27 @@
 @import "tailwindcss"; 
 
-/* Styling for the header section */
-.header-section {
-  background-color: black;
-  border-style: solid;
-  border-color: black;
-  border-width: 5px;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-/* Styling for the hero  section */
-.hero{
-  background-color: blueviolet;
-  color: black;
-  border-style: groove;
-  border-color: blueviolet;
-  border-width: 5px;
-}
+@import "bootstrap/dist/css/bootstrap.min.css"; 
 
-.btn{
-  background-color: blue;
+/* Styling for the background of the about section */
+.about-section {
+  background-color: #14229c;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: white;
 }
 
-/* Styling for the about section */
-.about-section {
-  background-color: blueviolet;
-  border-style: groove;
-  border-color: blueviolet;
-  border-width: 5px;
-}
-
-/* Styling for the skills header */
-.skills-header{
-  padding-bottom: 50px;
-  margin-bottom: 30px;
-  padding-bottom: 5px;
-
-}
-
-/* Styling for the skills section */
-.skills-section {
-  background-color: blueviolet;
-  border-style: groove;
-  border-color: blueviolet;
-  border-width: 5px;
-}
-
-/* Styling for the Skills Items */
-.color-blackmb-1 {
-  color: black;
-}
-
-/* Styling for the projects section */
-.projects-section {
-  background-color: blueviolet;
-}
-
-/* Styling for the contact section */
-.contact-section {
-  background-color: blueviolet;
-  border-style: groove;
-  border-color: blueviolet;
-  border-width: 5px;
-}
-
-/* Styling for the contact header */
-.contact-header {
+.about-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1rem; 
   text-align: center;
 }
-
-/* Styling for the footer section */
-.footer-section {
-  background-color: black;
-}
-
-.nav-item .nav-link {
-  color: white;
-}
+  
