@@ -1,5 +1,5 @@
 import React from 'react'
-import LCV from "./LCV.docx"
+import LCV from "./LCV.pdf"
 
 export default function About() {
 	return (
