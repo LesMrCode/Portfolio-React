@@ -6,6 +6,15 @@
 
 @import "bootstrap/dist/css/bootstrap.min.css"; 
 
+/* Styling for the background of the hero section */
+.hero{
+  background-color:  #14229c;
+  border-style: groove;
+  border-color: #14229c;
+  border-width: 5px;
+  color: white;
+}
+
 /* Styling for the background of the about section */
 .about-section {
   background-color: #14229c;
@@ -16,7 +25,7 @@
   align-items: center;
   color: white;
 }
-
+/* Styling for the header in the about section */ 
 .about-header {
   display: flex;
   flex-direction: column;

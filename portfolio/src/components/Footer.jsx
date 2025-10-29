@@ -2,6 +2,7 @@ import React from 'react'
 
 export default function Footer() {
 	return (
+	<div className='bg-black text-white p-4 mt-4'>
 		<div class="footer-section">
       <footer
         class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4"
@@ -25,5 +26,6 @@ export default function Footer() {
         </ul>
       </footer>
     </div>
+	</div> 
 	)
 }
