@@ -4,14 +4,14 @@ export default function Contact() {
   return (
     <section id="contact" class="contact-section">
       <div class="contact-header">  
-      <h1  className="display-4 fw-bold lh-1 text-body-emphasis mb-3">Let's Work Together</h1>
-       <p className="col-lg-10 fs-4">If you have a project in mind or would like to collaborate, feel free to reach out!</p>
+      <h1  className="display-4 fw-bold lh-1 text-body-emphasis mb-3 text-center">Let's Work Together</h1>
+       <p className="col-lg-10 fs-4 text-center">If you have a project in mind or would like to collaborate, feel free to reach out!</p>
        </div>
 
       <div className="container col-xl-10 col-xxl-8 px-4 py-5">
         <div className="row align-items-center g-lg-5 py-5">
           <div className="col-lg-7 text-center text-lg-start">
-            <h1 className="display-4 fw-bold lh-1 text-body-emphasis mb-3">Connect With Me:</h1>
+            <h3 className="display-4 fw-bold lh-1 text-body-emphasis mb-3  p-6 mt-5">Connect With Me:</h3>
         <h5>Email: coach.flownetic@gmail.com</h5>
         <a href="https://www.linkedin.com/in/lesley-eric-m-408319372/" class="btn btn-primary"> LinkedIn </a>
             <a href="https://github.com/LesMrCode" class="btn btn-primary"> GitHub </a>

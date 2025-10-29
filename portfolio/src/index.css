@@ -33,4 +33,32 @@
   margin-bottom: 1rem; 
   text-align: center;
 }
+
+/* Styling for the skills section */
+.skills-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.skills-section {
+  background-color: #14229c;
+  color: black; 
+  border-style: groove;
+  border-color: #14229c;
+  border-width: 5px;
+}
   
+/* Styling for the projects section */
+.projects-section {
+  background-color: #14229c;
+  color: black;
+}
+
+/* styling for the contact section */
+.contact-section {
+  background-color: #14229c;
+  border-style: groove;
+  border-color: #14229c;
+  border-width: 5px;
+  padding: 2rem;
+  border-radius: 0.5rem;
+}

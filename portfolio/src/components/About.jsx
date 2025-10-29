@@ -19,7 +19,7 @@ export default function About() {
             </p>
             </div> 
             <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-              <a href="./Lesley-Eric-CV.pdf" target="_blank" class="btn btn-primary"> Download CV </a>
+              <a href="./LCV.docx" target="_blank" class="btn btn-primary"> Download CV </a>
             </div>
           </div>
         </div>
