@@ -2,19 +2,20 @@ import React from 'react'
 
 export default function Contact() {
   return (
-    <section id="contact" class="contact-section">
-      <div class="contact-header">  
-      <h1  className="display-4 fw-bold lh-1 text-body-emphasis mb-3 text-center">Let's Work Together</h1>
-       <p className="col-lg-10 fs-4 text-center">If you have a project in mind or would like to collaborate, feel free to reach out!</p>
-       </div>
-
+    <section id="contact" className="contact-section">
+      <div className="contact-header">
+        {/* section heading */}
+        <h1 className="display-4 fw-bold lh-1 text-body-emphasis mb-3 text-center">Let's Work Together</h1>
+        <p className="col-lg-10 fs-4 text-center">If you have a project in mind or would like to collaborate, feel free to reach out!</p>
+      </div>
+      {/* centered text aand content in the contact section */}
       <div className="container col-xl-10 col-xxl-8 px-4 py-5">
         <div className="row align-items-center g-lg-5 py-5">
           <div className="col-lg-7 text-center text-lg-start">
             <h3 className="display-4 fw-bold lh-1 text-body-emphasis mb-3  p-6 mt-5">Connect With Me:</h3>
-        <h5>Email: coach.flownetic@gmail.com</h5>
-        <a href="https://www.linkedin.com/in/lesley-eric-m-408319372/" class="btn btn-primary"> LinkedIn </a>
-            <a href="https://github.com/LesMrCode" class="btn btn-primary"> GitHub </a>
+            <h5>Email: coach.flownetic@gmail.com</h5>
+            <a href="https://www.linkedin.com/in/lesley-eric-m-408319372/" className="btn btn-primary"> LinkedIn </a>
+            <a href="https://github.com/LesMrCode" className="btn btn-primary"> GitHub </a>
           </div>
 
           <div className="col-md-10 mx-auto col-lg-5">
